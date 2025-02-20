@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Socials</h4>
+<h4 align="left">📫 Anti-Socials</h4>
 
 ###
 
