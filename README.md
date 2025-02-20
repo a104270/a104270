@@ -6,11 +6,10 @@
 
 <p align="left">- 👋 Hi, I’m João Pinto, I'm 20 years old<br>- 🏠 Currently living in Braga, Portugal<br>- 👀 I’m interested in motorbikes and cars a lot<br>- 🌱 I’m currently studying computer engineering in University of Minho <br>- 📫 How to reach me: joaopedrolpintogmail.com</p>
 
+
 ###
 
 <h4 align="left">📫 Anti-Socials</h4>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
