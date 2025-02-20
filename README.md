@@ -53,6 +53,10 @@
 
 ###
 
-![snake gif](https://github.com/a104270/a104270/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olavo-Carreira/Olavo-Carreira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Olavo-Carreira/Olavo-Carreira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Olavo-Carreira/Olavo-Carreira/output/github-snake.svg" />
+</picture>
 
 ###
