@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/a104270/a104270/main/dist/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/a104270/a104270/blob/output/github-contribution-grid-snake.svg)
 
 ###
